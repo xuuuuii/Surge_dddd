@@ -1,5 +1,5 @@
 # name: APTV港澳台
-# UPDATED: 2024-11-19
+# UPDATED: 2025-1-08
 # Xiaoxuの整理
 DOMAIN,www.stream-link.org
 DOMAIN,live.hkdvb.com
@@ -9,3 +9,4 @@ DOMAIN,sc2024.stream-link.org
 DOMAIN,error.stream-link.org
 DOMAIN,stream-link.org
 DOMAIN,live-edge-02.stream-link.online
+DOMAIN,*aktv.top
