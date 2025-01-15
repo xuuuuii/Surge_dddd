@@ -1,16 +1,17 @@
 # name: APTV港澳台
-# UPDATED: 2025-1-08
+# UPDATED: 2025-1-15
 # Xiaoxuの整理
-DOMAIN,www.stream-link.org
 DOMAIN,live.hkdvb.com
 DOMAIN,vod.hkdvb.com
 DOMAIN,tv.iill.top
 DOMAIN,aktv.top
 DOMAIN,iptv.vip-tptv.xyz
-# DOMAIN,4gtv.mytvsuper.xyz
-# DOMAIN,video.mytvsuper.xyz
 DOMAIN-SUFFIX,mytvsuper.xyz
 DOMAIN,aptv.2025link.site
 DOMAIN-SUFFIX,2025link.site
 DOMAIN-SUFFIX,stream-link.org
+# 不识别可解除
+# DOMAIN,4gtv.mytvsuper.xyz
+# DOMAIN,video.mytvsuper.xyz
+# DOMAIN,www.stream-link.org
 # DOMAIN,live-edge-09.2025link.site
