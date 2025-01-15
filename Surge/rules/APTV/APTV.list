@@ -13,6 +13,6 @@ DOMAIN,aktv.top
 DOMAIN,iptv.vip-tptv.xyz
 DOMAIN,4gtv.mytvsuper.xyz
 DOMAIN,video.mytvsuper.xyz
-DOMAIN,.*2025link.site:*
-DOMAIN,.*2025link.site
+DOMAIN-SUFFIX,.*2025link.site:*
+DOMAIN-SUFFIX,.*2025link.site
 DOMAIN,live-edge-09.2025link.site
