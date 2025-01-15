@@ -7,12 +7,11 @@ DOMAIN,vod.hkdvb.com
 DOMAIN,tv.iill.top
 DOMAIN,sc2024.stream-link.org
 DOMAIN,error.stream-link.org
-DOMAIN,.*stream-link.org
-DOMAIN,.*stream-link.org:*
+DOMAIN,stream-link.org
 DOMAIN,aktv.top
 DOMAIN,iptv.vip-tptv.xyz
 DOMAIN,4gtv.mytvsuper.xyz
 DOMAIN,video.mytvsuper.xyz
-DOMAIN-SUFFIX,.*2025link.site:*
+DOMAIN,aptv.2025link.site
 DOMAIN-SUFFIX,.*2025link.site
-# DOMAIN,live-edge-09.2025link.site
+DOMAIN,live-edge-09.2025link.site
