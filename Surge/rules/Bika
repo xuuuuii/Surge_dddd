@@ -1,0 +1,5 @@
+#time：2025.2.5
+#name：哔咔
+host, ad-channel.diwodiwo.xyz, reject
+host, ad-channel.wikawika.xyz, reject
+host, ad-display.diwodiwo.xyz, reject
