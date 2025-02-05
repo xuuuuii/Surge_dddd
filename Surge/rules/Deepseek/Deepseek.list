@@ -1,7 +1,6 @@
 #!name=DeepSeek
 #2025-2-26
 # Deepseek 代理地址
-DOMAIN-KEYWORD,deepseek
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,fengkongcloud.cn
 DOMAIN-SUFFIX,fengkongcloud.com
