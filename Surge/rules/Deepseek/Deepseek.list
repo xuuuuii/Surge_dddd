@@ -1,11 +1,5 @@
 #!name=DeepSeek
 #2025-2-26
-
-# 摘选LOWERTOP佬内容
-# DOMAIN-SUFFIX,apmplus.volces.com,REJECT-DROP
-# DOMAIN-SUFFIX,gator.volces.com,REJECT-DROP
-# DOMAIN-SUFFIX,guh50jw4-ios.mobile-messenger.intercom.com,REJECT-DROP
-
 # Deepseek 代理地址
 DOMAIN-KEYWORD,deepseek
 DOMAIN-SUFFIX,deepseek.com
