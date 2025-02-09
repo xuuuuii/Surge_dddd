@@ -1,7 +1,8 @@
 #Xiaoxu整理
 #2025-1-25
 
-#好鸭Emby
+#好鸭 Emby 禁JP、US节点
 DOMAIN,cf.niceduck.lol
 DOMAIN,dpxcf.niceduck.lol
+DOMAIN,jcf.niceduck.lol
 DOMAIN-SUFFIX,niceduck.lol
