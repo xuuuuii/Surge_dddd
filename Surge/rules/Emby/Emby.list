@@ -1,9 +1,9 @@
 #Xiaoxu整理
 #2025-1-25
-DOMAIN-SUFFIX,jcf.niceduck.lol
-DOMAIN-SUFFIX,cinema.makima.online
-DOMAIN-SUFFIX,theater.makima.online
-DOMAIN-SUFFIX,anime.makima.online
-DOMAIN-SUFFIX,elluloid.makima.online
-DOMAIN-SUFFIX,restrict.makima.online
-DOMAIN-SUFFIX,cf.niceduck.lol
+#FacMata Emby 直连
+DOMAIN,cinema.makima.online
+DOMAIN,theater.makima.online
+DOMAIN,anime.makima.online
+DOMAIN,elluloid.makima.online
+DOMAIN,restrict.makima.online
+DOMAIN-SUFFIX,makima.online
