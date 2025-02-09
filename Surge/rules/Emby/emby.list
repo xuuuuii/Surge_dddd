@@ -6,3 +6,9 @@ DOMAIN,cf.niceduck.lol
 DOMAIN,dpxcf.niceduck.lol
 DOMAIN,jcf.niceduck.lol
 DOMAIN-SUFFIX,niceduck.lol
+
+#终点站 Emby
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN-SUFFIX,emby.wtf
