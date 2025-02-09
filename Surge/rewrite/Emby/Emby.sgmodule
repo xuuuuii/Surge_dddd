@@ -5,4 +5,4 @@
 EmbySearchModifier = type=http-request, pattern=^https?:\/\/.*\/Items\?.*SearchTerm=[@$#!], script-path=https://raw.githubusercontent.com/lunanfo/Task/master/Scripts/emby-search-modifier.js
 
 [MITM]
-hostname = *.emby.wtf, *.makima.online, *.niceduck.lol
+hostname = *.emby.wtf, *.makima.online, *.niceduck.lol, *.term.wtf, *.term.wtf:443
