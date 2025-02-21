@@ -3,7 +3,8 @@ DOMAIN-SUFFIX,xai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.xai.com
 DOMAIN-SUFFIX,grok.x.ai
-
+DOMAIN-SUFFIX,grok-v2.x.ai
+DOMAIN-SUFFIX,assets.x.ai
 # X（Twitter）
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
