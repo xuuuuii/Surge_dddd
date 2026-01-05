@@ -1,4 +1,6 @@
 # name: 爱阅书香
 # UPDATED: 2025-1-14
 # 数据来源https://t.me/aiyueshuxiangy
-DOMAIN,api-access.pangolin-sdk-toutiao.com,DIRECT
+DOMAIN,api-access.pangolin-sdk-toutiao.com
+
+
